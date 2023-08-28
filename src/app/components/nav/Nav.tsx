@@ -37,7 +37,7 @@ export default function Nav(): ReactNode {
       </div>
       <div className="w-[85px] h-[40px] mt-[32px] mr-[124px] ml-[432px] bg-lime-500 hover:font-bold rounded-full  justify-center items-center gap-[8px] inline-flex">
         <Link
-          href="/signin"
+          href="/sign-in"
           className="text-center text-white text-lg font-normal leading-tight tracking-tight">
           <button>登入</button>
         </Link>
